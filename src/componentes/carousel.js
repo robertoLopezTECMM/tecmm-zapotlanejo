@@ -1,10 +1,7 @@
-
 import React, {Component} from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import axios from 'axios';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
-
-
 import './styles/carousel.css';
 
 
@@ -36,20 +33,21 @@ import './styles/carousel.css';
       super();
       this.state={
         modalVisible : false,
-        carouselImages:[
-          {image: 'http://tecmm.edu.mx/imagesReact/images/carousel/enneit.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/enneit.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/#/eneit'},
-          {image: 'http://tecmm.edu.mx/imagesReact/images/carousel/convocatoria-video-2019.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/enneit.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/imagesReact/images/carousel/documentos/convocatoria-video-2019.pdf'},
-          //{image: 'http://tecmm.edu.mx/imagesReact/images/carousel/CONDONACIONES-2019-2020.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/CONDONACIONES-2019-2020.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/imagesReact/images/carousel/documentos/CONDONACIONES-2019-2020.pdf'},
-          //{image: 'http://tecmm.edu.mx/imagesReact/images/carousel/SEGUNDO-EXAMEN-2019.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/SEGUNDO-EXAMEN-2019.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/imagesReact/images/carousel/documentos/SEGUNDO-EXAMEN-2019.pdf'},
-          //{image: 'http://tecmm.edu.mx/imagesReact/images/carousel/SEGUNDO-EXAMEN-EN-LINEA.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/SEGUNDO-EXAMEN-EN-LINEA.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/imagesReact/images/carousel/documentos/SEGUNDO-EXAMEN-EN-LINEA.pdf'},
-
-          //{image: 'http://tecmm.edu.mx/imagesReact/images/carousel/inscripciones-abiertas.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/inscripciones-abiertas.jpg', description:'ahorita no joven', link:'http://controlescolar.tecmm.edu.mx'},
-          {image: 'http://tecmm.edu.mx/imagesReact/images/carousel/cover_5_aniv.png', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/inscripciones-abiertas.jpg', description:'ahorita no joven', link:'https://www.tecnm.mx/'},
-          //{image: 'http://tecmm.edu.mx/imagesReact/images/carousel/Aceptados.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/inscripciones-abiertas.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/documentos/lista-aceptados-semestreB-2019/ACEPTADOS_TECMM_2019.pdf'},
-          //{image: 'http://tecmm.edu.mx/imagesReact/images/carousel/Aceptados%20Modalidad%20en%20L%c3%adnea%20Banner.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/inscripciones-abiertas.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/documentos/lista-aceptados-semestreB-2019/Aceptados-en-Linea.pdf'},
-        ],
+        carouselImages:[],
       }
     }
+
+    componentWillMount() {
+      const url = 'http://dashboard.tecmm.edu.mx/dashboardScript.php'
+      axios.get(url, {params:{action:"getBanners"}}).then(response => response.data)
+      .then((data) => {
+        this.setState({
+          carouselImages: data
+        })
+        console.log(this.state.carouselImages)
+      })
+    }
+
 
 
     render(){
@@ -70,18 +68,18 @@ import './styles/carousel.css';
               >
 
                 {this.state.carouselImages.map((it)=>(
-                  <CarouselItem link={it.link} image={it.image} name={it.name} />
+                  <CarouselItem link={it.link} image={it.ref_banner}/>
                 ))}
 
             </Carousel>
 
-            <div class="ui stackable four column grid">
+            <div class="div-botonesCarousel">
               <a href="/ofertaAcademica">
                 <button  className="btn1Oferta">OFERTA<br/>ACADÉMICA</button>
               </a>
 
-              <a href="http://tecmm.edu.mx/#/campus">
-                <button className="btn2Campus">RED DE CAMPUS<br/>EN JALISCO</button>
+              <a href="http://tecmm.edu.mx/unidadesAcademicas">
+                <button className="btn2Campus">UNIDADES ACADÉMICAS TECMM</button>
               </a>
 
               <a href="http://controlescolar.tecmm.edu.mx/">

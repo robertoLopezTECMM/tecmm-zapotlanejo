@@ -1,114 +1,114 @@
 const IngInnovacionAgricola = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Innovacion-Agricola.jpg'
-const CardIngInnovacionAgricola = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Innovacion-Agricola-Sustentable.jpg'
+const CardIngInnovacionAgricola = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Innovacion-Agricola-Sustentable.webp'
 const RetIngInnovacionAgricola = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Innovacion-Agricola-Sustentable.pdf'
 const FoIngInnovacionAgricola = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Innovacion-Agricola-Sustentable.pdf'
 
 const IngAdministracion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Adnministracion.jpg'
-const CardIngAdministracion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Administracion.jpg'
+const CardIngAdministracion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Administracion.webp'
 const RetIngAdministracion = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Administracion.pdf'
 const FoIngAdministracion = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Administracion.pdf'
 
 const IngAmbiental = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Ambiental.jpg'
-const CardIngAmbiental = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Ambiental.jpg'
+const CardIngAmbiental = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Ambiental.webp'
 const RetIngAmbiental = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Ambiental.pdf'
 const FoIngAmbiental = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Ambiental.pdf'
 
 const IngAnimacion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Animacion.jpg'
-const CardIngAnimacion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Animacion-Efectos-Audiovisuales.jpg'
+const CardIngAnimacion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Animacion-Efectos-Audiovisuales.webp'
 const RetIngAnimacion = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Animacion-Digital-y-Efectos-Visuales.pdf'
 const FoIngAnimacion = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Animacion-Digital-y-Efectos-Visuales.pdf'
 
 const Arquitectura = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Arquitectura.jpg'
-const CardArquitectura = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Arquitectura.jpg'
+const CardArquitectura = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Arquitectura.webp'
 const RetArquitectura = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Arquitectura.pdf'
 const FoIngArquitectura = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Arquitectura.pdf'
 
 const IngCivil = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Civil.jpg'
-const CardIngCivil = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Civil.jpg'
+const CardIngCivil = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Civil.webp'
 const RetIngCivil = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Civil.pdf'
 const FoIngCivil = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Civil.pdf'
 
 const Contador = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Contador.jpg'
-const CardContador = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Contador-Publico.jpg'
+const CardContador = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Contador-Publico.webp'
 const RetContador = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Contador-Publico.pdf'
 const FoContador = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Contador-Publico.pdf'
 
 const IngElectromecanica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Electromecanica.jpg'
-const CardIngElectromecanica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Electromecanica.jpg'
+const CardIngElectromecanica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Electromecanica.webp'
 const RetIngElectromecanica = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Electromecanica.pdf'
 const FoIngElectromecanica = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Electromecanica.pdf'
 
 const IngElectronica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Electronica.jpg'
-const CardIngElectronica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Electronica.jpg'
+const CardIngElectronica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Electronica.webp'
 const RetIngElectronica = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Electronica.pdf'
 const FoIngElectronica = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Electronica.pdf'
 
 const IngEnergiasRenovables = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Energias-Renovables.jpg'
-const CardIngEnergiasRenovables = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Innovaion-Energias-Renovables.jpg'
+const CardIngEnergiasRenovables = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Innovaion-Energias-Renovables.webp'
 const RetIngEnergiasRenovables = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Energias-Renovables.pdf'
 const FoIngEnergiasRenovables = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Energias-Renovables.pdf'
 
 const Gastronomia = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Gastronomia.jpg'
-const CardGastronomia = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Gastronomia.jpg'
+const CardGastronomia = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Gastronomia.webp'
 const RetGastronomia = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Gastronomia.pdf'
 const FoGastronomia = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Gastronomia.pdf'
 
 const IngGestionEmpresarial = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Gestion-Empresarial.jpg'
-const CardIngGestionEmpresarial = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Gestion-Empresarial.jpg'
+const CardIngGestionEmpresarial = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Gestion-Empresarial.webp'
 const RetIngGestionEmpresarial = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Gestion-Empresarial.pdf'
 const FoIngGestionEmpresarial = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Gestion-Empresarial.pdf'
 
 const IngIndustrial = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Industrial.jpg'
-const CardIngIndustrial = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Industrial.jpg'
+const CardIngIndustrial = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Industrial.webp'
 const RetIngIndustrial = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Industrial.pdf'
 const FoIngIndustrial = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Industrial.pdf'
 
 const IngIndustriasAlimentarias = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Industrias-Alimentarias.jpg'
-const CardIngIndustriasAlimentarias = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Industrias-Alimentarias.jpg'
+const CardIngIndustriasAlimentarias = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Industrias-Alimentarias.webp'
 const RetIngIndustriasAlimentarias = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Industrias-Alimentarias.pdf'
 const FoIngIndustriasAlimentarias = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Industrias-Alimentarias.pdf'
 
 const IngInformatica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Informatica.jpg'
-const CardIngInformatica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Informatica.jpg'
+const CardIngInformatica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Informatica.webp'
 const RetIngInformatica = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Informatica.pdf'
 const FoIngInformatica = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Informatica.pdf'
 
 const IngMecatronica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Mecatronica.jpg'
-const CardIngMecatronica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Mecatronica.jpg'
+const CardIngMecatronica = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Mecatronica.webp'
 const RetIngMecatronica = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Mecatronica.pdf'
 const FoIngMecatronica = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Mecatronica.pdf'
 
 const IngSistemas = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Sistemas.jpg'
-const CardIngSistemas = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Sistemas-Computacionales.jpg'
+const CardIngSistemas = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Sistemas-Computacionales.webp'
 const RetIngSistemas = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Sistemas-Computacionales.pdf'
 const FoIngSistemas = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Sistemas-Computacionales.pdf'
 
 const IngSistemasAutomotrices = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Automotriz.jpg'
-const CardIngSistemasAutomotrices = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Sistemas-Automotrices.jpg'
+const CardIngSistemasAutomotrices = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Sistemas-Automotrices.webp'
 const RetIngSistemasAutomotrices = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Sistemas-Automotrices.pdf'
 const FoIngSistemasAutomotrices = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Sistemas-Automotrices.pdf'
 
 const IngTecnologiasdelaInformacionComunicaciones = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Tecnologias-de-la-info-y-comunicaciones.jpg'
-const CardIngTecnologiasdelaInformacionComunicaciones = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Tecnologias-Informacion-Comunicaciones.jpg'
+const CardIngTecnologiasdelaInformacionComunicaciones = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Tecnologias-Informacion-Comunicaciones.webp'
 const RetIngTecnologiasdelaInformacionComunicaciones = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Tecnologias-de-la-Informacion-y-Comunicaciones.pdf'
 const FoIngTecnologiasdelaInformacionComunicaciones = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Tecnologias-de-la-Informacion-y-Comunicaciones.pdf'
 
 const LicTurismo = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Lic-Turismo.jpg'
-const CardLicTurismo = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Turismo.jpg'
+const CardLicTurismo = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Turismo.webp'
 const RetLicTurismo = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Licenciatura-en-Turismo.pdf'
 const FoLicTurismo = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Licenciatura-en-Turismo.pdf'
 
 const LicAdministracion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Lic-Administracion.jpg'
-const CardLicAdministracion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Administracion.jpg'
+const CardLicAdministracion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Administracion.webp'
 const RetLicAdministracion = 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Licenciatura-en-Administracion.pdf'
 const FoLicAdministracion = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Licenciatura-en-Administracion.pdf'
 
 const MaestriaAdministracion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Maestria-Administracion.jpg'
-const CardMaestriaAdministracion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Maestria-Administracion.jpg'
+const CardMaestriaAdministracion = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Maestria-Administracion.webp'
 const FoMaestriaAdministracion = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Maestria-Administracion.pdf'
 
 const MaestriaSistemas = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Maestria-Sistemas-Computacionales.jpg'
-const CardMaestriaSistemas = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Maestria-Sistemas-Computacionales.jpg'
+const CardMaestriaSistemas = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Maestria-Sistemas-Computacionales.webp'
 const FoMaestriaSistemas = 'http://tecmm.edu.mx/folletosCarreras/Folleto-Maestria-Sistemas-Computacionales.pdf'
 
 const IngGestionEmpresarialLinea = 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Gestion-Empresarial-Linea.jpg'
@@ -122,8 +122,9 @@ export default function CarrerasData(){
 
   var carrerasArray = [];
 
-    carrerasArray[0]={
+    {/*carrerasArray[0]={
       name: 'Ingenieria-en-Innovacion-Agricola-Sustentable',
+      link;'http://tecmm.edu.mx/#/Carrera/Ingenieria-en-Innovacion-Agricola-Sustentable',
       card:CardIngInnovacionAgricola,
       portada: IngInnovacionAgricola,
       youtube:'qvIWinTFRzo',
@@ -152,6 +153,7 @@ export default function CarrerasData(){
 
     carrerasArray[1]={
       name: 'Ingenieria-en-Administracion',
+      link: 'http://tecmm.edu.mx/#/Carrera/Ingenieria-en-Administracion',
       card:CardIngAdministracion,
       portada: IngAdministracion,
       youtube:'SiklbYKU46E',
@@ -182,10 +184,11 @@ export default function CarrerasData(){
       reticula: RetIngAdministracion,
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_ADMINISTRACIN_IADM-2010-213.pdf',
       folleto: FoIngAdministracion,
-    };
+    };*/}
 
-    {/*carrerasArray[2]={
+    carrerasArray[2]={
       name: 'Ingenieria-Ambiental',
+      link: 'http://tecmm.edu.mx/Carrera/Ingenieria-Ambiental',
       card:CardIngAmbiental,
       portada: IngAmbiental,
       youtube:'0W4nKuE804U',
@@ -210,8 +213,9 @@ export default function CarrerasData(){
       folleto: FoIngAmbiental,
     };
 
-    carrerasArray[3]={
+    {/*carrerasArray[3]={
       name: 'Ingenieria-en-Animacion-Digital-y-Efectos-Visuales',
+      link: 'http://tecmm.edu.mx/#/Carrera/Ingenieria-en-Animacion-Digital-y-Efectos-Visuales',
       card:CardIngAnimacion,
       portada: IngAnimacion,
       youtube:'q5VUA47oAgQ',
@@ -236,11 +240,11 @@ export default function CarrerasData(){
       reticula: RetIngAnimacion,
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERIA_EN_ANIMACION_DIGITAL_Y_EFECTOS_VISUALES_IAEV-2012-238.pdf',
       folleto: FoIngAnimacion,
-    };*/}
+    };
 
-
-    {/*carrerasArray[4]={
+    carrerasArray[4]={
       name: 'Arquitectura',
+      link: 'http://tecmm.edu.mx/#/Carrera/Arquitectura',
       card:CardArquitectura,
       portada: Arquitectura,
       youtube:'1Vt2xyS547s',
@@ -266,6 +270,7 @@ export default function CarrerasData(){
 
     carrerasArray[5]={
       name: 'Ingenieria-Civil',
+      link:'http://tecmm.edu.mx/#/Carrera/Ingenieria-Civil',
       card:CardIngCivil,
       portada: IngCivil,
       youtube:'t17aryJFc4E',
@@ -284,10 +289,11 @@ export default function CarrerasData(){
       reticula: RetIngCivil,
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_CIVIL_ICIV-2010-208.pdf',
       folleto: FoIngCivil,
-    };*/}
+    };
 
     carrerasArray[6]={
       name: 'Contador-Publico',
+      link: 'http://tecmm.edu.mx/#/Carrera/Contador-Publico',
       card:CardContador,
       portada: Contador,
       youtube:'5BStNwjphLE',
@@ -311,10 +317,11 @@ export default function CarrerasData(){
       reticula: RetContador,
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/CONTADOR_PBLICO_COPU-2010-205.pdf',
       folleto: FoContador,
-    };
+    };*/}
 
-    {/*carrerasArray[7]={
+    carrerasArray[7]={
       name: 'Ingenieria-Electromecanica',
+      link: 'http://tecmm.edu.mx/Carrera/Ingenieria-Electromecanica',
       card:CardIngElectromecanica,
       portada: IngElectromecanica,
       youtube:'rxlPixDE6hc',
@@ -337,8 +344,9 @@ export default function CarrerasData(){
       folleto: FoIngElectromecanica,
     };
 
-    carrerasArray[8]={
+    {/*carrerasArray[8]={
       name: 'Ingenieria-Electronica',
+      link: 'http://tecmm.edu.mx/#/Carrera/Ingenieria-Electronica',
       card:CardIngElectronica,
       portada: IngElectronica,
       youtube:'WcYZn4rosuY',
@@ -371,6 +379,7 @@ export default function CarrerasData(){
 
     carrerasArray[9]={
       name: 'Ingenieria-en-Energias-Renovables',
+      link: 'http://tecmm.edu.mx/#/Carrera/Ingenieria-en-Energias-Renovables',
       card:CardIngEnergiasRenovables,
       portada: IngEnergiasRenovables,
       youtube:'vwYNq_elvMw',
@@ -387,10 +396,11 @@ export default function CarrerasData(){
       reticula: RetIngEnergiasRenovables,
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_ENERGAS_RENOVABLES_IENR-2010-217.pdf',
       folleto: FoIngEnergiasRenovables,
-    };*/}
+    };
 
-    {/*carrerasArray[10]={
+    carrerasArray[10]={
       name: 'Gastronomia',
+      link: 'http://tecmm.edu.mx/#/Carrera/Gastronomia',
       card:CardGastronomia,
       portada: Gastronomia,
       youtube:'oqqy3VjBR_8',
@@ -423,6 +433,7 @@ export default function CarrerasData(){
 
     carrerasArray[11]={
       name: 'Ingenieria-en-Gestion-Empresarial',
+      link: 'http://tecmm.edu.mx/Carrera/Ingenieria-en-Gestion-Empresarial',
       card:CardIngGestionEmpresarial,
       portada: IngGestionEmpresarial,
       youtube:'SIbWitsNhu0',
@@ -453,6 +464,7 @@ export default function CarrerasData(){
 
     carrerasArray[12]={
       name: 'Ingenieria-Industrial',
+      link: 'http://tecmm.edu.mx/Carrera/Ingenieria-Industrial',
       card:CardIngIndustrial,
       portada: IngIndustrial,
       youtube:'8GONm_MoLLs',
@@ -483,8 +495,9 @@ export default function CarrerasData(){
       folleto: FoIngIndustrial,
     };
 
-    {/*carrerasArray[13]={
+    carrerasArray[13]={
       name: 'Ingenieria-en-Industrias-Alimentarias',
+      link: 'http://tecmm.edu.mx/Carrera/Ingenieria-en-Industrias-Alimentarias',
       card:CardIngIndustriasAlimentarias,
       portada: IngIndustriasAlimentarias,
       youtube:'no1wsBPtCrI',
@@ -514,10 +527,11 @@ export default function CarrerasData(){
       reticula: RetIngIndustriasAlimentarias,
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_INDUSTRIAS_ALIMENTARIAS_IIAL-2010-219.pdf',
       folleto: FoIngIndustriasAlimentarias,
-    };*/}
+    };
 
-    carrerasArray[14]={
+    {/*carrerasArray[14]={
       name: 'Ingenieria-Informatica',
+      link: 'http://tecmm.edu.mx/#/Carrera/Ingenieria-Informatica',
       card:CardIngInformatica,
       portada: IngInformatica,
       youtube:'ehgXAgsrqRA',
@@ -547,8 +561,9 @@ export default function CarrerasData(){
       folleto: FoIngInformatica,
     };
 
-    {/*carrerasArray[15]={
+    carrerasArray[15]={
       name: 'Ingenieria-Mecatronica',
+      link: 'http://tecmm.edu.mx/#/Carrera/Ingenieria-Mecatronica',
       card:CardIngMecatronica,
       portada: IngMecatronica,
       youtube:'kfC5hNMCzq0',
@@ -571,8 +586,9 @@ export default function CarrerasData(){
       folleto: FoIngMecatronica,
     };*/}
 
-    {/*carrerasArray[16]={
+    carrerasArray[16]={
       name: 'Ingenieria-en-Sistemas-Computacionales',
+      link: 'http://tecmm.edu.mx/Carrera/Ingenieria-en-Sistemas-Computacionales',
       card:CardIngSistemas,
       portada: IngSistemas,
       youtube:'Hw3TO2ZKKto',
@@ -596,8 +612,9 @@ export default function CarrerasData(){
       folleto: FoIngSistemas,
     };
 
-    carrerasArray[17]={
+    {/*carrerasArray[17]={
       name: 'Ingenieria-en-Sistemas-Automotrices',
+      link: 'http://tecmm.edu.mx/#/Carrera/Ingenieria-en-Sistemas-Automotrices',
       card:CardIngSistemasAutomotrices,
       portada: IngSistemasAutomotrices,
       youtube:'2YdDo4GJMWM',
@@ -622,6 +639,7 @@ export default function CarrerasData(){
 
     carrerasArray[18]={
       name: 'Ingenieria-en-Tecnologias-de-la-Informacion-y-Comunicaciones',
+      link: 'http://tecmm.edu.mx/#/Carrera/Ingenieria-en-Tecnologias-de-la-Informacion-y-Comunicaciones',
       card:CardIngTecnologiasdelaInformacionComunicaciones,
       portada: IngTecnologiasdelaInformacionComunicaciones,
       youtube:'AZj3w1N7DiA',
@@ -648,6 +666,7 @@ export default function CarrerasData(){
 
     carrerasArray[19]={
       name: 'Licenciatura-en-Turismo',
+      link: 'http://tecmm.edu.mx/#/Carrera/Licenciatura-en-Turismo',
       card:CardLicTurismo,
       portada: LicTurismo,
       youtube:'WE6gIFKRW8c',
@@ -672,6 +691,7 @@ export default function CarrerasData(){
 
     carrerasArray[20]={
       name: 'Licenciatura-en-Administracion',
+      link: 'http://tecmm.edu.mx/#/Carrera/Licenciatura-en-Administracion',
       card:CardLicAdministracion,
       portada: LicAdministracion,
       youtube:'zFO1BChgPeE',
@@ -697,10 +717,11 @@ export default function CarrerasData(){
       reticula: RetLicAdministracion,
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/LICENCIATURA_EN_ADMINISTRACIN_LADM-2010-234.pdf',
       folleto: FoLicAdministracion,
-    };*/}
+    };
 
-    {/*carrerasArray[21]={
+    carrerasArray[21]={
       name: 'Ingenieria-en-Gestion-Empresarial-en-Linea',
+      link: 'http://tecmm.edu.mx/#/Carrera/Ingenieria-en-Gestion-Empresarial-en-Linea',
       card:"http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Gestion-Empresarial-Linea.jpg",
       portada: IngGestionEmpresarialLinea,
       youtube:'PoT9UkO8TcI',
@@ -729,6 +750,7 @@ export default function CarrerasData(){
 
     carrerasArray[22]={
       name: 'Maestria-en-Administracion',
+      link: 'http://tecmm.edu.mx/#/Carrera/Maestria-en-Administracion',
       card:CardMaestriaAdministracion,
       portada: MaestriaAdministracion,
       youtube:'U7SZz2s2qLY',
@@ -750,6 +772,7 @@ export default function CarrerasData(){
 
     carrerasArray[23]={
       name: 'Maestria-en-Sistemas-Computacionales',
+      link: 'http://tecmm.edu.mx/#/Carrera/Maestria-en-Sistemas-Computacionales',
       card:CardMaestriaSistemas,
       portada: MaestriaSistemas,
       youtube:'rdWPqiy3RRc',
@@ -760,7 +783,7 @@ export default function CarrerasData(){
                       {perfil:"Analizar, desarrollar y programar modelos matemáticos, estadísticos y de simulación."},
                       {perfil:"Reconocer y guiarse por los aspectos sociales, profesionales y éticos en su entorno."},
                       {perfil:"Dirigir y coordinar equipos de trabajo multi e interdisciplinarios."},
-                      {perfil:"Coordinar y realizar investigaciones que fortalezcan el desarrollo cultural, cient��fico y tecnológico."},
+                      {perfil:"Coordinar y realizar investigaciones que fortalezcan el desarrollo cultural, científico y tecnológico."},
                       {perfil:"Desarrollar y administrar sistemas de información, redes de computadoras y aplicaciones distribuidas."},
                       {perfil:"Poseer una visión empresarial y detectar áreas de oportunidad para emprender y desarrollar proyectos aplicando las tecnologías de información y de las comunicaciones."},
                       {perfil:"Seleccionar y administrar los recursos humanos y computacionales para unidades de servicios de cómputo."},
@@ -774,6 +797,7 @@ export default function CarrerasData(){
 
     carrerasArray[24]={
       name: 'Ingenieria-en-Gestion-Empresarial-en-Linea',
+      link: 'http://tecmm.edu.mx/#/Carrera/Ingenieria-en-Gestion-Empresarial-en-Linea',
       card:CardIngGestionEmpresarialLinea,
       portada: IngGestionEmpresarialLinea,
       youtube:'PoT9UkO8TcI',

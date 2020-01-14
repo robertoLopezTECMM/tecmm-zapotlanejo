@@ -15,342 +15,213 @@
 
 
 
-.div-principal-carouselComponent{
-  width: 100%;
-  height: 100%;
-  background-color: #d6d6d6;
-  display: flex;
+/*RESOLUCION PARA LAPTOP*/
 
-}
+  .div-principal-carouselComponent{
+    width: 100%;
+    height: 100%;
+    background-color: #d6d6d6;
+    display: flex;
 
-.div-carousel-carouselComponent{
-  width: 100%;
-  height: 100%;
-  position: relative;
-}
+  }
+
+  .div-carousel-carouselComponent{
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
 
 
-.ui.stackable.four.column.grid{
-  background-color: !important;
-  position: absolute;
-  top:3%;
-  right: 1.5%;
-}
+  .div-botonesCarousel{
+    background-color:red !important;
+    position: absolute;
+    top:0%;
+    right: 0%;
+    width: 50%;
 
-.ui.grid>*{
-  padding-left: 1%;
-  padding-top: 0%;
-  padding-right: 0%;
-}
-
-.carousel .slide{
-  background-color: #6D356C;
-}
+  }
 
 
 
-.btn1Oferta {
-  position: relative;
-  width:20vh;
-  height: 8vh;
-  background-color: #2DA19A;
-  right:0%;
+  .btn1Oferta {
+    position: absolute;
+    width:30%;
+    height: 8vh;
+    background-color: #2DA19A;
+    right:62%;
 
-  color: white;
-  font-size: 2vh;
-  font-family: 'Gotham-Ultra';
-  border: none;
-  cursor: pointer;
-  z-index: 30;
-  text-align: center;
-  margin:1%;
-}
+    color: white;
+    font-size: 2vh;
+    font-family: 'Gotham-Ultra';
+    border: none;
+    cursor: pointer;
+    z-index: 30;
+    text-align: center;
+    margin:0%;
+  }
 
-.btn1Oferta:hover{
-  background-color: #2DA19A;
-  opacity: 0.8;
-}
+  .btn1Oferta:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
 
-.btn2Campus {
-  position: relative;
-  width:20vh;
-  height: 8vh;
-  left:0%;
-  background-color: #2DA19A;
-  color: white;
-  font-size: 2vh;
-  font-family: 'Gotham-Ultra';
-  border: none;
-  cursor: pointer;
-  z-index: 30;
-  text-align: center;
-  margin:1%;
-}
+  .btn2Campus {
+    position: absolute;
+    width:30%;
+    height: 8vh;
+    right:31%;
+    background-color: #2DA19A;
+    color: white;
+    font-size: 1.8vh;
+    font-family: 'Gotham-Ultra';
+    border: none;
+    cursor: pointer;
+    z-index: 30;
+    text-align: center;
+    margin:0%;
+  }
 
-.btn2Campus:hover{
-  background-color: #2DA19A;
-  opacity: 0.8;
-}
+  .btn2Campus:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
 
-.btn3Escolares {
-  position: relative;
-  width:20vh;
-  height: 8vh;
-  background-color: #2DA19A;
-  left:0%;
-  color: white;
-  font-size: 2vh;
-  font-family: 'Gotham-Ultra';
-  border: none;
-  cursor: pointer;
-  z-index: 30;
-  text-align: center;
-  margin: 1%;
-}
+  .btn3Escolares {
+    position: absolute;
+    width:30%;
+    height: 8vh;
+    background-color: #2DA19A;
+    right:0%;
+    color: white;
+    font-size: 2vh;
+    font-family: 'Gotham-Ultra';
+    border: none;
+    cursor: pointer;
+    z-index: 30;
+    text-align: center;
+    margin: 0%;
+  }
 
-.btn3Escolares:hover{
-  background-color: #2DA19A;
-  opacity: 0.8;
+  .btn3Escolares:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
+
+
+/*RESOLUCION PARA LAPTOP*/
+@media(min-width:1200px) and (max-width:1600px){
+
 }
 
 
 /*RESOLUCION PARA IMAC*/
 @media(min-width:2500px) and (max-width:5000px){
 
-  .div-carousel-botonesCarousel{
-    width:50%;
-    height: 18%;
-    background-color: ;
-
-    position:absolute;
-    z-index: 30;
-    display: flex;
-
-    right: 0%;
-    top: 0%;
-  }
-
-  .ui.stackable.four.column.grid{
-    background-color: !important;
-    position: absolute;
-    top:1.2%;
-    right: 0.8%;
-  }
-
-  .ui.grid>*{
-    padding-left: 1%;
-    padding-top: 0%;
-    padding-right: 0%;
-  }
-
-  .btn1Oferta {
-    position: relative;
-    width:17vh;
-    height: 8vh;
-    background-color: #2DA19A;
-
-    left:0%;
-    /*top:10%;*/
-
-    color: white;
-    font-size: 1.8vh;
-    font-family: 'Gotham-Ultra';
-    border: none;
-    cursor: pointer;
-    z-index: 30;
-    text-align: center;
-  }
-
-  .btn2Campus {
-    position: relative;
-    width:17vh;
-    height: 8vh;
-    left:0%;
-    background-color: #2DA19A;
-    color: white;
-    font-size: 1.8vh;
-    font-family: 'Gotham-Ultra';
-    border: none;
-    cursor: pointer;
-    z-index: 30;
-    text-align: center;
-  }
-
-
-  .btn3Escolares {
-    position: relative;
-    width:17vh;
-    height: 8vh;
-    background-color: #2DA19A;
-    left:0%;
-    color: white;
-    font-size: 1.8vh;
-    font-family: 'Gotham-Ultra';
-    border: none;
-    cursor: pointer;
-    z-index: 30;
-    text-align: center;
-  }
 
 }
 
 /*RESOLUCION PARA MACBOOK PRO*/
 @media(min-width:1600px) and (max-width: 2400px){
-  .ui.stackable.four.column.grid{
-    background-color: !important;
-    position: absolute;
-    top:2%;
-    right: 1.2%;
-  }
-
-  .ui.grid>*{
-    padding-left: 1%;
-    padding-top: 0%;
-    padding-right: 0%;
-  }
 }
 
 @media(max-width: 770px){
-
-  .div-carousel-botonesCarousel{
-    width:50%;
-    height: 30%;
-    background-color: transparent;
-    position: absolute;
-    z-index: 30;
-    display: flex;
-    justify-content: space-between;
-    right: 0%;
-    top: 0%;
-  }
-
-  .btn1Oferta {
-    position: relative;
-    width:12vh;
-    height: 7vh;
-    background-color: #2DA19A;
-
-    left:0%;
-    /*top:10%;*/
-
-    color: white;
-    font-size: 1.5vh;
-    font-family: 'Gotham-Ultra';
-    border: none;
-    cursor: pointer;
-    z-index: 30;
-    text-align: center;
-  }
-
-  .btn2Campus {
-    position: relative;
-    width:12vh;
-    height: 7vh;
-    left:0%;
-    background-color: #2DA19A;
-    color: white;
-    font-size: 1.5vh;
-    font-family: 'Gotham-Ultra';
-    border: none;
-    cursor: pointer;
-    z-index: 30;
-    text-align: center;
-  }
-
-  .btn3Escolares {
-    position: relative;
-    width:12vh;
-    height: 7vh;
-    background-color: #2DA19A;
-    left:0%;
-    color: white;
-    font-size: 1.5vh;
-    font-family: 'Gotham-Ultra';
-    border: none;
-    cursor: pointer;
-    z-index: 30;
-    text-align: center;
-  }
 
 
 }
 
 @media(min-width:00px) and (max-width: 420px){
 
+  .div-principal-carouselComponent{
+    width: 100%;
+    height: 100%;
+    background-color: #d6d6d6;
+    display: flex;
+
+  }
+
   .div-carousel-carouselComponent{
     width: 100%;
     height: 100%;
-    position:inherit;
+    position:relative;
+    display: block;
+    background-color:white;
   }
 
 
-  .ui.stackable.four.column.grid{
-    background-color:!important;
-    position: inherit;
-    top:0%;
-    right:0%;
+  .div-botonesCarousel{
+    background-color:white   !important;
+    position: relative;
+    margin-top:1%;
+    right: 0%;
     width: 100%;
-    height: 10vh;
-    margin-top: 1%;
+    display: block;
   }
 
-  .ui.grid>*{
-    padding-left: 2%;
-    padding-top: 0%;
-    padding-right: 0%;
-    background-color: ;
-
-  }
 
   .btn1Oferta {
-    position: inherit;
-    width:15vh;
+    position: absolute;
+    width:32%;
     height: 8vh;
-    background-color: #2DA19A;
-
+    background-color: #6D356C;
     left:0%;
-    /*top:10%;*/
 
-    color: white;
-    font-size: 1.6vh;
-    font-family: 'Gotham-Ultra';
-    border: none;
-    cursor: pointer;
-    z-index: 30;
-    text-align: center;
-  }
-
-  .btn2Campus {
-    position: inherit;
-    width:15vh;
-    height: 8vh;
-    left:0%;
-    background-color: #2DA19A;
     color: white;
     font-size: 1.5vh;
     font-family: 'Gotham-Ultra';
     border: none;
     cursor: pointer;
-    z-index: 30;
+    z-index:4;
     text-align: center;
+    margin:0%;
   }
 
-
-  .btn3Escolares {
-    position: inherit;
-    width:15vh;
-    height: 8vh;
+  .btn1Oferta:hover{
     background-color: #2DA19A;
-    left:0%;
+    opacity: 0.8;
+  }
+
+  .btn2Campus {
+    position: relative;
+    width:32%;
+    height: 8vh;
+    left: 0%;
+
+    background-color: #6D356C;
     color: white;
-    font-size: 1.6vh;
+    font-size: 1.5vh;
     font-family: 'Gotham-Ultra';
     border: none;
     cursor: pointer;
-    z-index: 30;
+    z-index: 4;
     text-align: center;
+    margin:0%;
   }
 
+  .btn2Campus:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
 
+  .btn3Escolares {
+    position: absolute;
+    width:32%;
+    height: 8vh;
+    background-color: #6D356C;
+    right:0%;
+
+    color: white;
+    font-size: 1.5vh;
+    font-family: 'Gotham-Ultra';
+    border: none;
+    cursor: pointer;
+    z-index: 4;
+    text-align: center;
+    margin: 0%;
+  }
+
+  .btn3Escolares:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
 
 }

@@ -19,6 +19,10 @@
   height: 100%;
 }
 
+.div-noticiaItem a{
+  color:white!important;
+}
+
 .div-tituloNoticia{
   position: absolute;
   width: 100%;
@@ -95,7 +99,10 @@
     padding-bottom: 0.5%;
   }
 
-
+  .div-noticiaItem a{
+    color:white!important;
+    text-decoration: none;
+  }
 
 
   .slick-slider{
