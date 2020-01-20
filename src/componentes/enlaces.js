@@ -22,7 +22,7 @@ class Enlaces extends Component {
           <img src="http://tecmm.edu.mx/imagenesCampus/sice.png"/>
         </a>
 
-        <a target="_blank" href="">
+        <a target="_blank" href="http://201.144.7.6/moodle/login/index.php">
           <img style={{marginLeft:"5px", marginRight:"5px"}} src="http://tecmm.edu.mx/imagenesCampus/moodle.png"/>
         </a>
 
