@@ -81,6 +81,7 @@ class Footer extends Component{
           <a class="tag" target="_blank" href="/quienesSomos">IDENTIDAD</a>
           <a class="tag" target="_blank" href="/unidadesAcademicas">UNIDADES ACADÉMICAS</a>
           <a class="tag" target="_blank" href="/eneit">ENEIT 2019</a>
+          <a class="tag" target="_blank" href="http://201.144.7.3/conectv4">CONECT</a>
           <a class="tag" target="_blank" href="/Contacto">CONTACTO</a>
           <a class="tag" target="_blank" href="https://www.conacyt.gob.mx/">CONACYT</a>
         </div>
